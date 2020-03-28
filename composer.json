@@ -1,0 +1,11 @@
+{
+    "name": "andrew/aggregate-root",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Exilesprc",
+            "email": "campbell.andrew86@yahoo.com"
+        }
+    ],
+    "require": {}
+}
